@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "*.ipp": "cpp"
+    },
+    "python.autoComplete.extraPaths": [
+        "/home/xx/ros_space_xx/pclxx_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages"
+    ]
+}

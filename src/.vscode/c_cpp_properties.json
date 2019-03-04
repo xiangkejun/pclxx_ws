@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/xx/ros_space_xx/pclxx_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/xx/ros_space_xx/pclxx_ws/src/my_pcl_tutorial/include",
+                "/home/xx/ros_space_xx/pclxx_ws/src/perception_pcl-kinetic-devel/pcl_ros/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
